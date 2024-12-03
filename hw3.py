@@ -1,8 +1,14 @@
 import data
 import county_demographics
+from build_data import get_data
 from data import CountyDemographics
 import hw3_tests
 import math
+
+
+import build_data
+full_data = get_data()
+print(full_data)
 
 # Part 1
 
