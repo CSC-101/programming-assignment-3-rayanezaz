@@ -8,7 +8,7 @@ import math
 
 import build_data
 full_data = get_data()
-print(full_data)
+#print(full_data)
 
 # Part 1
 
